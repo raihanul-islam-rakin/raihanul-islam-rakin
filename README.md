@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=0.5">
+  <meta name="viewport" content="width=device-width, initial-scale=0.6">
 <body>
-  <h3 class="title" style="font-size: 0.5em;">:hammer_and_wrench: Languages and Tools :</h3>
+  <h3 class="title" style="font-size: 0.7em;">:hammer_and_wrench: Languages and Tools :</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="25" height="25"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;
