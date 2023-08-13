@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=0.6">
+  <meta name="viewport" content="width=device-width, initial-scale=0.7em">
 <body>
   <h3 class="title" style="font-size: 0.7em;">:hammer_and_wrench: Languages and Tools :</h3>
   <div>
