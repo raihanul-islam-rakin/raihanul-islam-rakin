@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=0.7em">
 <body>
-  <h3 class="title" style="font-size: 0.7em;">:hammer_and_wrench: Languages and Tools :</h3>
+  <h3 class="title" style="font-size: 0.8em;">:hammer_and_wrench: Languages and Tools :</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="25" height="25"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;
@@ -22,7 +22,5 @@
 
 ### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rakin777&theme=swift&border_radius=5&hide_total_contributions=true)](https://git.io/streak-stats)
-
-
 
 
