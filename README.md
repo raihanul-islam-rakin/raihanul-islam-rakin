@@ -3,16 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Icon List with Custom Font</title>
-  <style>
-    body {
-      font-family: "Your Custom Font", sans-serif; /* Change "Your Custom Font" to the font you want to use */
-    }
-    
-    .title {
-      font-size: 1.5em; /* Adjust the font size as needed */
-    }
-  </style>
 </head>
 <body>
   <h3 class="title">:hammer_and_wrench: Languages and Tools :</h3>
