@@ -1,13 +1,10 @@
 <a href='https://postimg.cc/2VF0XLkD' target='_blank'><img src='https://i.postimg.cc/NfZZFRZ5/Z1.jpg' border='0' alt='Astronomy'/></a>
 
 
-
-
-
 #### Language & Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20> </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="25" height="25"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;
+    <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="25" height
 ="25"/>&nbsp;
@@ -19,6 +16,13 @@
   </div>
 </body>
 </html>
+
+<!-- Add space here -->
+<div>&nbsp;</div>
+
+ <div>
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" title="Figma" alt="Figma" width="290" height="320"/>&nbsp;
+      </div>
 
 ---
 
