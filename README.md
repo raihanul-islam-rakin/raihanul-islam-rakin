@@ -18,7 +18,7 @@
 <div>&nbsp;</div>
 
  <div>
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" title="Figma" alt="Figma" width="290" height="320"/>&nbsp;
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" title="Z" alt="Z" width="290" height="320"/>&nbsp;
       </div>
 
 ---
