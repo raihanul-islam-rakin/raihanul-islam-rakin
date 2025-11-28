@@ -1,6 +1,7 @@
 #### Language & Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20> </h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Next.js" width="25" height;
+      
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="25" height;
     <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" title="JavaScript" alt="JavaScript" width="25" height="25"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp;
