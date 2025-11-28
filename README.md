@@ -17,5 +17,5 @@
 <div>&nbsp;</div>
 
  <div>
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" title="Z" alt="Z" width="290" height="340"/>&nbsp;
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" title="Z" alt="Z" width="290" height="400"/>&nbsp;
       </div>
