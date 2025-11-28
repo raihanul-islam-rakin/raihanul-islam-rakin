@@ -1,32 +1,33 @@
 #### Language & Tools : <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20> </h2>
-  <div>
+  <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-       title="Python" alt="Python" width="25" height="25" />&nbsp;
+       title="Python" alt="Python" width="25" height="25" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" 
-       title="R" alt="R" width="25" height="25" />&nbsp;
+       title="R" alt="R" width="25" height="25" />
 
   <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" 
-       title="JavaScript" alt="JavaScript" width="25" height="25" />&nbsp;
+       title="JavaScript" alt="JavaScript" width="25" height="25" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-       title="React" alt="React" width="25" height="25" />&nbsp;
+       title="React" alt="React" width="25" height="25" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" 
-       title="Next.js" alt="Next.js" width="25" height="25" />&nbsp;
+       title="Next.js" alt="Next.js" width="25" height="25" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" 
-       title="Jira" alt="Jira" width="28" height="28" />&nbsp;
+       title="Jira" alt="Jira" width="28" height="28" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" 
-       title="Selenium" alt="Selenium" width="25" height="25" />&nbsp;
+       title="Selenium" alt="Selenium" width="25" height="25" />
 
   <img src="https://img.icons8.com/ios-filled/50/tableau.png" 
-       title="Tableau" alt="Tableau" width="25" height="25" />&nbsp;
+       title="Tableau" alt="Tableau" width="25" height="25" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
        title="Docker" alt="Docker" width="30" height="30" />
 </div>
+
 
 </body>
 </html>
